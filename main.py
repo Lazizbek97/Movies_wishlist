@@ -7,7 +7,7 @@ from wtforms.validators import DataRequired
 import requests
 
 # API, URLs for search movie
-MY_API = "1acae7818c7a2dd20a5839febd1f4904"
+MY_API = "my api code"
 API_URL = "https://api.themoviedb.org/3/search/movie"
 MOVIE_DB_IMAGE_URL = "https://image.tmdb.org/t/p/w500"
 
